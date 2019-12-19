@@ -1,4 +1,4 @@
-tvwavecontrol
+# tvwavecontrol
 
 This repository contains a Python implementation accompanying the paper 
 *Optimal control of the principal coefficient in a scalar wave equation*
