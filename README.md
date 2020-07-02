@@ -1,7 +1,7 @@
 # tvwavecontrol
 
 This repository contains a Python implementation accompanying the paper 
-*Optimal control of the principal coefficient in a scalar wave equation*
+[*Optimal control of the principal coefficient in a scalar wave equation*](https://arxiv.org/abs/1912.08672)
 by Christian Clason, Karl Kunisch, and Philip Trautmann.
 
 The implementation uses Numpy (v1.17.3), SciPy (v1.3.3) and DOLFIN (v2019.1). To recreate the transmission example, run `python3 tvwavecontrol.py`.
