@@ -8,7 +8,7 @@ The implementation uses Numpy (v1.17.3), SciPy (v1.3.3) and DOLFIN (v2019.1). To
 
 If you find this code useful, you can cite the paper as
 
-    @article{nonsmoothquasilinear,
+    @article{tvwavecontrol,
         author = {Clason, Christian and Karl, Kunisch and Trautmann, Philip},
         title = {Optimal control of the principal coefficient in a scalar wave equation},
         year = {2019},
